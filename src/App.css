@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* * {
+  box-sizing: border-box;
+  padding: 0px;
+}
+.main-container{
+  position: absolute;
+  width: 317px;
+  height: 900px;
+  left: 116px;
+  top: 361px;
+  color: #fff;
+  background: #1A1B21;
+  padding: 15px 20px;
+}
+.info > h1{
+  font-size: 30px;
+}
+.portfolio-image{
+  width: 70%;
+} */
